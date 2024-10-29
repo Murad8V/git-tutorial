@@ -8,3 +8,6 @@ Logical Operators
 Bitwise Operators
 Ternary Operators
 Type Operators
+
+
+next to look javascript objects.
